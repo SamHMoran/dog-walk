@@ -1,0 +1,23 @@
+{
+  "name": "dog-walk",
+  "version": "1.0.0",
+  "description": "Dog walk simulator Token: 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",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamHMoran/dog-walk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SamHMoran/dog-walk/issues"
+  },
+  "homepage": "https://github.com/SamHMoran/dog-walk#readme",
+  "dependencies": {
+    "phaser": "^3.70.0"
+  }
+}
