@@ -1,0 +1,12 @@
+  # Log files
+  *.log
+
+  # Cache files
+  .cache/
+
+  # Temporary files
+  .tmp/
+
+  # IDE/text editor files
+  .idea/
+  .vscode/
